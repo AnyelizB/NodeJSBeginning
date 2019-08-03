@@ -1,3 +1,9 @@
+## Iniciar el programa
+
+```
+npm install
+
+```
 ### Install yarn
 
 ```
